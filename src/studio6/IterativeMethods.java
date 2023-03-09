@@ -18,6 +18,8 @@ public class IterativeMethods {
 			sum = sum + Math.pow(0.5, power);
 		}
 		return sum;
+
+		
 	}
 
 	/**
